@@ -1,0 +1,18 @@
+Map by: Dr.Boo
+Name: de_xmas_hotel
+Type: Bomb/Diffuse
+
+Description: The terrorists want to bomb the Hotel De La Merde in the French alps. They want to blow up the storage room on the first floor, and the meeting room on the second. Don't ask my why they'd want to blow up an empty meeting room and a fucking storage room tho. I have no idea. Why are you even reading this shit?
+
+Special Thanks:
+
+-Stormseeker: For the Xmas tree model, and a few of the textures used.
+http://www.alexroyce.com
+-The Joe.to forums: any beginning mapper for CS should DEFENITELY register over there.
+http://www.joe.to
+-NIPPER: for helping me out with the overviews and the radar
+-the NIPPER Source maps server, which is a server that plays other things than those gay official maps.
+http://www.joe.to
+
+Note: This map was created for Joe.to's Christmas Map Pack of 2006.
+
